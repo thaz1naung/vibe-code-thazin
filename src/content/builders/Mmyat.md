@@ -1,13 +1,11 @@
 ---
-name: Saw Kapaw Say (KP)
-github: KiZINnO
+name: Myo Myat Zaw
+github: Mmyat
 cohort: 1
 role: builder
-skills: ["JavaScript", "Python", "Claude Code"]
-repo: https://github.com/KiZINnO/vibe-code-tours
-x: KiZINnO
-linkedin: Saw Kapaw Say
-website: https://github.com/KiZINnO
+skills: ["Javascript", "TypeScript", "Go", "Nodejs", "Bun", "Express.js", "ElysiaJS", "ReactJS", "DBMS"]
+repo: https://github.com/Mmyat/vibe-code-tours.github.io
+linkedin: https://www.linkedin.com/in/myo-myat-zaw-92a795182/
 ---
 
 Hi! I'm learning to vibe-code with AI. My goal is to build and ship something
