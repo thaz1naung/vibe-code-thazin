@@ -4,13 +4,13 @@ github: haymannko
 cohort: 1
 role: builder
 skills: ["AWS", "Docker", "DevOps"]
-repo: https://github.com/haymannko/haymannko
-linkedin: www.linkedin.com/in/hay-mann-ko-40a111277
-
+linkedin: https://www.linkedin.com/in/hay-mann-ko-40a111277
+claude_101:      https://verify.skilljar.com/c/pr2dfnt2ng2b
+claude_code_101: https://verify.skilljar.com/c/oyugvv7fvoaq
 ---
 
-Hi! I'm very happy to contribute in Vibe Code Tours of Cohort 1. My goal is to use VibeTour knowledge in my career development.
-Thank your sayar.
+Hi! I'm enjoyable to contribute in Vibe Code Tours of Cohort 1. My goal is to use VibeTour knowledge in my career development.
+Thank you Sayar
 
 <!--
 HOW TO ADD YOURSELF:
